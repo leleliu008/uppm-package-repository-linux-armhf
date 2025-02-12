@@ -38,7 +38,9 @@ jobs:
           run ./ppkg setup --syspm
           run ./ppkg update
 
-          sed -i '/--enable-assembly/d' ~/.ppkg/repos.d/official-core/formula/libgmp.yml
+          sed -i 's/enable-assembly/disable-assembly/' ~/.ppkg/repos.d/official-core/formula/libgmp.yml
+          sed -i '/^dep-pkg: /s|systemd||'             ~/.ppkg/repos.d/official-core/formula/appstream.yml
+          sed -i 's|systemd=true|systemd=false|'       ~/.ppkg/repos.d/official-core/formula/appstream.yml
 
           run ./ppkg install ${{ matrix.pkg }} --static
           run ./ppkg bundle  ${{ matrix.pkg }} .tar.xz --exclude include/ --exclude lib/
