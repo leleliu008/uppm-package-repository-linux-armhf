@@ -1,0 +1,5 @@
+summary: A lightweight and portable command-line YAML processor
+webpage: https://mikefarah.gitbook.io/yq
+version: 4.44.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/yq-4.44.3-linux-armv7l.release.tar.xz
+bin-sha: c4c1e8d4c3ec1af1399d7b82b6e3d61057ff8b133f12dfed08ba42746861ea6c

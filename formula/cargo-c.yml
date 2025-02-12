@@ -1,0 +1,5 @@
+summary: A helper program to build and install C-ABI compatible dynamic and static libraries
+webpage: https://github.com/lu-zero/cargo-c
+version: 0.10.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/cargo-c-0.10.9-linux-armv7l.release.tar.xz
+bin-sha: 4bd36b163dc1d2dc715530bcb25c16efbd2d3490a8de37f57ca8269a7d56d7be

@@ -1,0 +1,5 @@
+summary: A few command-line utilities for working with desktop entries
+webpage: https://wiki.freedesktop.org/www/Software/desktop-file-utils/
+version: 0.28
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/desktop-file-utils-0.28-linux-armv7l.release.tar.xz
+bin-sha: 0ae4fc8b9fc49fa17df0a0901ae01afd09376243261c31c8b56b508f48d92fd7

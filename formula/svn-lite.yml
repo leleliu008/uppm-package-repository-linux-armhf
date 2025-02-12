@@ -1,0 +1,5 @@
+summary: A minimalist svn client to checkout/update Subversion repositories
+webpage: https://github.com/rofl0r/svn-lite
+version: 1.09
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/svn-lite-1.09-linux-armv7l.release.tar.xz
+bin-sha: 61705cb729f35bb2f08084909e782911ed331a800be1214f930a36cc44d3075a

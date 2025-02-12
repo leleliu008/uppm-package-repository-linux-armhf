@@ -1,0 +1,5 @@
+summary: Display directories as trees (with optional color/HTML output)
+webpage: https://oldmanprogrammer.net/source.php?dir=projects/tree
+version: 2.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/tree-2.2.1-linux-armv7l.release.tar.xz
+bin-sha: bbda8a0d055b8691fd759feb22e03c7540036c65c944044fef871ecee2a4419b

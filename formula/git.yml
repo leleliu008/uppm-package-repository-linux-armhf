@@ -1,0 +1,5 @@
+summary: Distributed revision control system
+webpage: https://git-scm.com/
+version: 2.48.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/git-2.48.1-linux-armv7l.release.tar.xz
+bin-sha: 7ca231387075f6b4a7d75e2622992e0295599f246496316b80e105ebbcfa8cb1

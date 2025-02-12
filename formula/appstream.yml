@@ -1,0 +1,5 @@
+summary: A command-line utility to work with AppStream metadata
+webpage: https://www.freedesktop.org/wiki/Distributions/AppStream/
+version: 1.0.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/appstream-1.0.4-linux-armv7l.release.tar.xz
+bin-sha: 66a54d92429f07a2a8f135fb4915714c52b4c2f5541f210f4412ec9628c4c4a3

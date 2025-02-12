@@ -1,0 +1,5 @@
+summary: A command-line interface that brings github.com functionality to your terminal
+webpage: https://github.com/cli/cli
+version: 2.66.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/gh-2.66.1-linux-armv7l.release.tar.xz
+bin-sha: dd3db90f37f75d7a140df094b0337a6e3b502a7f06d526c37e1d51e4dc4154f0

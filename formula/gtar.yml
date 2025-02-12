@@ -1,0 +1,5 @@
+summary: GNU version of the tar archiving utility
+webpage: https://www.gnu.org/software/tar
+version: 1.35
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/gtar-1.35-linux-armv7l.release.tar.xz
+bin-sha: 6dfd8339ebebe163410a6f9d198cb89121dd68d490c7ebf9f182795528ea759c

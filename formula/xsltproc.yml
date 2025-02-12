@@ -1,0 +1,5 @@
+summary: A command line tool for applying XSLT stylesheets to XML documents
+webpage: http://xmlsoft.org/XSLT
+version: 1.1.42
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/xsltproc-1.1.42-linux-armv7l.release.tar.xz
+bin-sha: 9bdea89a1c1d375bfa6de05c22f690fc5be5c8e4de2676d5c79a6d5a0f37b9ce

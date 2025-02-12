@@ -1,0 +1,5 @@
+summary: GNU awk utility
+webpage: https://www.gnu.org/software/gawk
+version: 5.3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/gawk-5.3.1-linux-armv7l.release.tar.xz
+bin-sha: 10f21c05b2040070ed7b9bfb3412492d5179c1028e2678f5e598f9d270a96025

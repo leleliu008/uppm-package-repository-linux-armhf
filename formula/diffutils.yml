@@ -1,0 +1,5 @@
+summary: File comparison utilities
+webpage: https://www.gnu.org/software/diffutils
+version: 3.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/diffutils-3.10-linux-armv7l.release.tar.xz
+bin-sha: 925bf65f6e1eb2814fe6a9d5a9a241a8ef7d77a965d68eb3f978748c68a73fe5

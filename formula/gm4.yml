@@ -1,0 +1,5 @@
+summary: Macro processing language
+webpage: https://www.gnu.org/software/m4
+version: 1.4.19
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/gm4-1.4.19-linux-armv7l.release.tar.xz
+bin-sha: 69d5f77025bad4500d20bab8bf481e095b13f73ccde1eeb4f92094f133446342

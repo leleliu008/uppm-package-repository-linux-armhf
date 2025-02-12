@@ -1,0 +1,5 @@
+summary: A command-line tool for generating documentation from annotated programming language source files
+webpage: https://www.doxygen.nl/
+version: 1.10.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/doxygen-1.10.0-linux-armv7l.release.tar.xz
+bin-sha: 46cdf6b34b111412387ce4af90a8d1f55e45dafc6aff0006eb32f61c9f92b06d

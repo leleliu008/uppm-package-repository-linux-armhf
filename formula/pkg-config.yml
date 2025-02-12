@@ -1,0 +1,5 @@
+summary: A command-line tool to help you insert the correct compiler options when compiling objects and/or linking libraries
+webpage: https://freedesktop.org/wiki/Software/pkg-config
+version: 0.29.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/pkg-config-0.29.2-linux-armv7l.release.tar.xz
+bin-sha: 0a5674ae5d4a43ff95881226719b43386d791a0a9fd4c77109401135bbd3bf74

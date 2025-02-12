@@ -1,0 +1,5 @@
+summary: GNU grep, egrep and fgrep
+webpage: https://www.gnu.org/software/grep
+version: 3.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/grep-3.11-linux-armv7l.release.tar.xz
+bin-sha: fda470e65e553436cf8ef7e6bbcf186f600edb52136275b4133a383e70205c02

@@ -1,0 +1,5 @@
+summary: BSD tar
+webpage: https://www.libarchive.org/
+version: 3.7.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/bsdtar-3.7.4-linux-armv7l.release.tar.xz
+bin-sha: ac5be9e450f705293416b004dda3090b1a052e5b0dc96c3bdebe9901fc0f98a9

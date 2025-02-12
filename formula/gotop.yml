@@ -1,0 +1,5 @@
+summary: Terminal based graphical activity monitor inspired by gtop and vtop
+webpage: https://github.com/xxxserxxx/gotop
+version: 4.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/gotop-4.2.0-linux-armv7l.release.tar.xz
+bin-sha: a0ce0c124510227f04898b69e989520af2be71dee9394a2a17b34bea3fedf7b7

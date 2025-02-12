@@ -1,0 +1,5 @@
+summary: Maintained ctags implementation
+webpage: https://ctags.io/
+version: 2025.02.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/uctags-2025.02.12-linux-armv7l.release.tar.xz
+bin-sha: bc205d1354baf39ed7c04de97c06f78b71f0941699aaae0013035cb2a077d187

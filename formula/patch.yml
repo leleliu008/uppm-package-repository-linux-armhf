@@ -1,0 +1,5 @@
+summary: Apply a diff file to an original
+webpage: https://savannah.gnu.org/projects/patch
+version: 2.7.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/patch-2.7.6-linux-armv7l.release.tar.xz
+bin-sha: 0f18cd99b7c98b27df40769046b0f65ae73dc2b32548bd3be371be2d1349d82a

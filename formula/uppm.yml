@@ -1,0 +1,5 @@
+summary: Universal Prebuild Package Manager
+webpage: https://github.com/leleliu008/uppm
+version: 0.17.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/uppm-0.17.0-linux-armv7l.release.tar.xz
+bin-sha: fc70d09d67afb8391096fa9fdd8ba3cab7f30edd5c0559fa7763807536574012

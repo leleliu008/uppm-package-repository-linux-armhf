@@ -1,0 +1,5 @@
+summary: Utility that provides fast incremental file transfer
+webpage: https://rsync.samba.org/
+version: 3.4.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/rsync-3.4.1-linux-armv7l.release.tar.xz
+bin-sha: ab25f1c28f6a398e9a705981796b58e69b39d6d1bc13ade1677c36bfa58ef589

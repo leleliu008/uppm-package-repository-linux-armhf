@@ -1,0 +1,5 @@
+summary: A collection of Linux utilities
+webpage: https://github.com/util-linux/util-linux
+version: 2.40.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/util-linux-2.40.4-linux-armv7l.release.tar.xz
+bin-sha: 5dbfd06dee28189a606b0cf723b853d6229ab67c3b81266af7751f3561a57de6

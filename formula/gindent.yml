@@ -1,0 +1,5 @@
+summary: C code prettifier
+webpage: https://www.gnu.org/software/indent/
+version: 2.2.13
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/gindent-2.2.13-linux-armv7l.release.tar.xz
+bin-sha: 84b5ba20006da86a55104f2896d20f00b5d0109c0feb3e97e55f316ec2873ec6

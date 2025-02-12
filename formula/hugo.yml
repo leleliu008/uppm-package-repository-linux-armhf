@@ -1,0 +1,5 @@
+summary: A fast and flexible static site generator
+webpage: https://gohugo.io
+version: 0.124.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/hugo-0.124.1-linux-armv7l.release.tar.xz
+bin-sha: 6588400b972b7b885d4f8650dd2885329dae1c0f6f4c9477a9aa2465d7cd67ce

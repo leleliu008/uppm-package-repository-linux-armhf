@@ -1,0 +1,5 @@
+summary: Go git service
+webpage: https://gogs.io
+version: 0.12.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/gogs-0.12.10-linux-armv7l.release.tar.xz
+bin-sha: e011ad3752651d66966f0ac3d60d9f51eb612375aed9cd14b2728d32099004e1

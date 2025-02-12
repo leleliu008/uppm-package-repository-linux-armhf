@@ -1,0 +1,5 @@
+summary: A small build system with a focus on speed
+webpage: https://ninja-build.org/
+version: 1.11.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/ninja-1.11.1-linux-armv7l.release.tar.xz
+bin-sha: 4c936345ba3de86c2d01d2a3d2e47a85b809f7c4c64302782a817dddea64609d

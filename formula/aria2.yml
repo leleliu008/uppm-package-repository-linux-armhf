@@ -1,0 +1,5 @@
+summary: A lightweight multi-protocol & multi-source, cross platform download utility
+webpage: https://aria2.github.io
+version: 1.37.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/aria2-1.37.0-linux-armv7l.release.tar.xz
+bin-sha: b5b858a6604a76c172742c1dce5e95215b1da20a6ec7e96f12d57f2667fb995f

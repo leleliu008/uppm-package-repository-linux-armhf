@@ -1,0 +1,5 @@
+summary: A collection of tools for glib
+webpage: https://developer.gnome.org/glib
+version: 2.80.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/glib-tools-2.80.4-linux-armv7l.release.tar.xz
+bin-sha: c6d5571ac5f30fb70da4cdacf04b82a2803bf4c5d850a5d0865bd94530cb7182

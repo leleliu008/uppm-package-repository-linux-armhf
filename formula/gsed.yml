@@ -1,0 +1,5 @@
+summary: GNU implementation of the famous stream editor
+webpage: https://www.gnu.org/software/sed
+version: 4.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/gsed-4.9-linux-armv7l.release.tar.xz
+bin-sha: e3d74adeb906d20e01c65683e9704d1f74ed2e65e7d62ffc265854a42fb7215c

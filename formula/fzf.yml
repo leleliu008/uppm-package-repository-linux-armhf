@@ -1,0 +1,5 @@
+summary: A command-line fuzzy finder written in Go
+webpage: https://github.com/junegunn/fzf
+version: 0.54.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/fzf-0.54.3-linux-armv7l.release.tar.xz
+bin-sha: 6216ac16a844824421803bc384ca4d48f8ae9c4547aeaf7ccdac3f1965d5c47e

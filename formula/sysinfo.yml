@@ -1,0 +1,5 @@
+summary: A command-line utility to print your currently running system information
+webpage: https://github.com/leleliu008/sysinfo
+version: 2025.02.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/sysinfo-2025.02.12-linux-armv7l.release.tar.xz
+bin-sha: 97dc8cdd650fd997097f85a6fdbaf2dbbb9e2d5f01a9ccc2e0fdfa4e1b2967cf

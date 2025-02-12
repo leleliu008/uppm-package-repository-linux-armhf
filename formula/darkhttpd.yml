@@ -1,0 +1,5 @@
+summary: A small static web server without CGI
+webpage: https://unix4lyfe.org/darkhttpd/
+version: 1.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/darkhttpd-1.16-linux-armv7l.release.tar.xz
+bin-sha: 93a242b75b6873faf97f438ecb24bade5045cde7eff17a0d4d130a8aae6a9412

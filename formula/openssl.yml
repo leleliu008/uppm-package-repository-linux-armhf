@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://www.openssl.org/
+version: 3.3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/openssl-3.3.1-linux-armv7l.release.tar.xz
+bin-sha: b41b69ed49ace6c4dd3e18cf147556327f0a0a8666980c4cdc0f788b982aed05

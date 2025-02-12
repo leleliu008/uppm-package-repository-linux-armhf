@@ -1,0 +1,5 @@
+summary: 7-Zip (high compression file archiver) implementation
+webpage: https://github.com/p7zip-project/p7zip
+version: 17.05
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/p7zip-17.05-linux-armv7l.release.tar.xz
+bin-sha: 73eebfb28ad0ff09bb4cf5fb47fdadcf5017db25d6da1d08b699a9703cfa026f

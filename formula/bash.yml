@@ -1,0 +1,5 @@
+summary: Bourne-Again SHell, a UNIX command interpreter
+webpage: https://www.gnu.org/software/bash
+version: 5.2.21
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/bash-5.2.21-linux-armv7l.release.tar.xz
+bin-sha: 3a6baf048a9f1523db7fa3e1da3bc1cb7eda032b641d596dff1690734895eb52

@@ -1,0 +1,5 @@
+summary: A command-line tool to determine file types
+webpage: https://www.darwinsys.com/file
+version: 5.45
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/file-5.45-linux-armv7l.release.tar.xz
+bin-sha: 04855ddf7dadfd66d40317a7f715e02097478733d4deaa94ec5f05fd9b54843c

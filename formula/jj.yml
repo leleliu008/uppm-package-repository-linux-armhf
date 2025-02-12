@@ -1,0 +1,5 @@
+summary: A git-compatible distributed version control system
+webpage: https://github.com/martinvonz/jj
+version: 0.20.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/jj-0.20.0-linux-armv7l.release.tar.xz
+bin-sha: 7cd458ef72e972daa983c9cf002b9a1cfd009b1050a517debe8a01ab6854477a

@@ -1,0 +1,5 @@
+summary: Power of curl, ease of use of httpie
+webpage: https://curlie.io
+version: 1.7.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/curlie-1.7.2-linux-armv7l.release.tar.xz
+bin-sha: 5c7b3e6b8899cc9f46c4e8831f800f6bc8b67c9b5cf17c5fff698837540379f6

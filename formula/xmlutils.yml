@@ -1,0 +1,5 @@
+summary: A collections of command-line utilities provided by libxml2
+webpage: http://xmlsoft.org
+version: 2.13.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/xmlutils-2.13.5-linux-armv7l.release.tar.xz
+bin-sha: 753db5315bde9edd7ac6014a77ef21eed47b10b2d944109a5e91b98e7081b868

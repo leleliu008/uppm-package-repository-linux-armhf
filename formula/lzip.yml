@@ -1,0 +1,5 @@
+summary: LZMA-based compression program similar to gzip or bzip2
+webpage: https://www.nongnu.org/lzip
+version: 1.24.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/lzip-1.24.1-linux-armv7l.release.tar.xz
+bin-sha: e2b6344772b420cf770a15d2b5014a736c6603eca55a127e42dccfab1f625d25

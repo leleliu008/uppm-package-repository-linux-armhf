@@ -1,0 +1,5 @@
+summary: Classic UNIX line editor
+webpage: https://www.gnu.org/software/ed/ed.html
+version: 1.20.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/ed-1.20.1-linux-armv7l.release.tar.xz
+bin-sha: 879eba4b074a9f6da112f000ededaa2770bb1ed6af952e88223c27ebf05f8271

@@ -1,0 +1,5 @@
+summary: Reimplementation of pkg-config
+webpage: http://pkgconf.org
+version: 2.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/pkgconf-2.3.0-linux-armv7l.release.tar.xz
+bin-sha: 3451b6b85324bd2a9328752c589e02a96d906f5a4ff12d6df06af4d1d5d10a42

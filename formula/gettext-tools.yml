@@ -1,0 +1,5 @@
+summary: GNU internationalization (i18n) and localization (l10n) library
+webpage: https://www.gnu.org/software/gettext
+version: 0.22.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/gettext-tools-0.22.5-linux-armv7l.release.tar.xz
+bin-sha: 39c9bebfd222ba8efb301cbfe7bcce089c7ef391b3ccf65f1152cb37d36ad162

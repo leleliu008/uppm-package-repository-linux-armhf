@@ -1,0 +1,5 @@
+summary: File transfer program
+webpage: http://zsync.moria.org.uk/
+version: 0.6.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/zsync-0.6.2-linux-armv7l.release.tar.xz
+bin-sha: 8962924f213e3dc4b0d359175d6aae2d5c01c4554bae498af1363e4b7b49a3f3

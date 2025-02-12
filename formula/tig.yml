@@ -1,0 +1,5 @@
+summary: Text interface for Git repositories
+webpage: https://jonas.github.io/tig
+version: 2.5.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/tig-2.5.9-linux-armv7l.release.tar.xz
+bin-sha: b70248be3c726189faad1ad5f87916b75477e86b8ed1b06a1cb08e0e4f02a787

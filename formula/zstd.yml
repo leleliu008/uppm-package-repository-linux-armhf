@@ -1,0 +1,5 @@
+summary: A real-time compression utility with high compression ratios
+webpage: https://facebook.github.io/zstd
+version: 1.5.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/zstd-1.5.6-linux-armv7l.release.tar.xz
+bin-sha: 612b6e008f4a5ffd083dc020cff15205798347011ea3380f7b71876cfaeac634

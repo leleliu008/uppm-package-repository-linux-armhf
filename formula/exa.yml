@@ -1,0 +1,5 @@
+summary: Modern replacement for ls(1)
+webpage: https://the.exa.website
+version: 0.10.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-armv7l/releases/download/2025.02.12/exa-0.10.1-linux-armv7l.release.tar.xz
+bin-sha: 87051b0d74de76dbce518cf9feb878b2d3ced405ce14e085a6f292986471b4f5
