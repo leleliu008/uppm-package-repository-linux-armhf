@@ -8,7 +8,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [aria2, axel, base16, base64, bash, bat, bison, bc, bsdtar, bzip2, b3sum, cargo-c, cmake, coreutils, cppcheck, croc, ctop, curl, curlie, d2, darkhttpd, dua, duf, dufs, dust, diffutils, dog, dos2unix, doxygen, easyutils, ed, exa, fd, figlet, file, findutils, flex, fzf, gawk, getopt, gettext-tools, gh, gindent, git, glib-tools, glow, gm4, gmake, gnupg, go-md2man, gogs, golang, gotop, gotty, gperf, grep, gsed, gtar, gzip, hugo, jj, jq, ko, lazygit, lolcat, lsd, lz4, lzip, mediainfo, mosh, mpg123, nasm, ninja, openssl, patch, patchelf, pigz, p7zip, pkg-config, pkgconf, pngquant, proot, putty, qpdf, qrencode, ripgrep, rsync, rtmpdump, sqlite3, strace, svn-lite, swig, sysinfo, tcpdump, tealdeer, tig, tmux, tree, trietool, uctags, unrar, unzip, uppm, util-linux, volta, wget, xmake, xmlutils, xsltproc, xxd, xz, yasm, youtubedr, yq, zip, zopfli, zstd, zoxide]
+        pkg: [appstream, aria2, axel, base16, base64, bash, bat, bison, bc, bsdtar, bzip2, b3sum, cargo-c, cmake, coreutils, cppcheck, croc, ctop, curl, curlie, d2, darkhttpd, desktop-file-utils, duf, dufs, dust, diffutils, dog, dos2unix, doxygen, easyutils, ed, exa, fd, figlet, file, findutils, flex, fzf, gawk, getopt, gettext-tools, gh, gindent, git, glib-tools, glow, gm4, gmake, gnupg, go-md2man, gogs, golang, gotop, gotty, gperf, grep, gsed, gtar, gzip, hugo, jj, jq, ko, lazygit, lolcat, lsd, lz4, lzip, mediainfo, mosh, mpg123, nasm, ninja, openssl, patch, patchelf, pigz, p7zip, pkg-config, pkgconf, proot, putty, qpdf, qrencode, ripgrep, rsync, sqlite3, squashfs, strace, svn-lite, swig, sysinfo, tcpdump, tig, tmux, tree, trietool, uctags, unrar, uppm, util-linux, wget, xmlutils, xsltproc, xxd, xz, yasm, youtubedr, yq, zopfli, zstd, zsync, zoxide]
 
     runs-on: ubuntu-latest
 
@@ -37,6 +37,9 @@ jobs:
 
           run ./ppkg setup --syspm
           run ./ppkg update
+
+          sed -i '/--enable-assembly/d' ~/.ppkg/repos.d/official-core/formula/libgmp.yml
+
           run ./ppkg install ${{ matrix.pkg }} --static
           run ./ppkg bundle  ${{ matrix.pkg }} .tar.xz --exclude include/ --exclude lib/
 
